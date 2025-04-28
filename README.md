@@ -31,6 +31,9 @@ Only relevant features like transaction type, amount, origin balance, and destin
 ![image](https://github.com/user-attachments/assets/8afad179-2fab-4e16-af6f-f242e2e53cfe)
 
 # DATASET
+The dataset used in this project can be found on Kaggle:  
+[Online Payments Fraud Detection Dataset](https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset)
+
 ![image](https://github.com/user-attachments/assets/39852558-d9db-4528-801e-f1874a6a0ddc)
 
 # ACCURACY PREDICTION OF MODELS
